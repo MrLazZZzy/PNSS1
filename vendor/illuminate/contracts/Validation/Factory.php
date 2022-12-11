@@ -5,7 +5,7 @@ namespace Illuminate\Contracts\Validation;
 interface Factory
 {
     /**
-     * Create a new Validators instance.
+     * Create a new Validator instance.
      *
      * @param  array  $data
      * @param  array  $rules

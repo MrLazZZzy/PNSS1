@@ -291,7 +291,7 @@ abstract class Facade
             'Storage' => Storage::class,
             'Str' => Str::class,
             'URL' => URL::class,
-            'Validators' => Validator::class,
+            'Validator' => Validator::class,
             'View' => View::class,
             'Vite' => Vite::class,
         ]);

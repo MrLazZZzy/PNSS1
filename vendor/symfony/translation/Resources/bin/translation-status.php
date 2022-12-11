@@ -48,7 +48,7 @@ $config = [
     'original_files' => [
         'src/Symfony/Component/Form/Resources/translations/validators.en.xlf',
         'src/Symfony/Component/Security/Core/Resources/translations/security.en.xlf',
-        'src/Symfony/Component/Validators/Resources/translations/validators.en.xlf',
+        'src/Symfony/Component/Validator/Resources/translations/validators.en.xlf',
     ],
 ];
 
